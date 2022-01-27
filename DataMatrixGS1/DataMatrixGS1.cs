@@ -33,6 +33,6 @@ namespace DataMatrixGS1
         public static void generateDataMatrix(string content, int width, int height, string fileName)
         {
             DataMatrixGS1.generateCode(content, width, height).Save(fileName, ImageFormat.Png);
-        }
+        }        
     }
 }
