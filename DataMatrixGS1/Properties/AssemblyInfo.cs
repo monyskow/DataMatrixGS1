@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("DataMatrixGS1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("IKEA Industry")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("DataMatrixGS1")]
-[assembly: AssemblyCopyright("Copyright © IKEA Industry 2022")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
