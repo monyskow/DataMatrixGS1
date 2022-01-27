@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataMatrixGS1", "DataMatrixGS1\DataMatrixGS1.csproj", "{146E75F7-4D32-4AEE-BB46-5D622A4C2DA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataMatrixGS1GUI", "DataMatrixGS1GUI\DataMatrixGS1GUI.csproj", "{7D080D88-4025-4155-B61A-EE239A79F646}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{146E75F7-4D32-4AEE-BB46-5D622A4C2DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146E75F7-4D32-4AEE-BB46-5D622A4C2DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146E75F7-4D32-4AEE-BB46-5D622A4C2DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146E75F7-4D32-4AEE-BB46-5D622A4C2DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D080D88-4025-4155-B61A-EE239A79F646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D080D88-4025-4155-B61A-EE239A79F646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D080D88-4025-4155-B61A-EE239A79F646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D080D88-4025-4155-B61A-EE239A79F646}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1045A3CB-50B3-4A93-9B01-3D3FD1A038A7}
+	EndGlobalSection
+EndGlobal
